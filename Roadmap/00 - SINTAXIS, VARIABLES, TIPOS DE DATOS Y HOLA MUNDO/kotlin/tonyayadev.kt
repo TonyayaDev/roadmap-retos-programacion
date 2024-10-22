@@ -19,7 +19,7 @@ var buleano: Boolean = true
 var arrayNumerico: Array<Int> = arrayOf(5,8,6,3,4,5,7,8,8)
 
 // No negativos
-var noNegnumero: UByte = 5U
+var noNegNumero: UByte = 5U
 var noNegCorto: UShort = 58U
 var noNegEntero: UInt = 58U
 var noNegLargo: ULong = 58U
