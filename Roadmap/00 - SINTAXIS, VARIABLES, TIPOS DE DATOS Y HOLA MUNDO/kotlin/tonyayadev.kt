@@ -17,6 +17,8 @@ var buleano: Boolean = true
 
 // Arrays
 var arrayNumerico: Array<Int> = arrayOf(5,8,6,3,4,5,7,8,8)
+var arrayCadenaTexto: Array<String> = arrayOf("Kotlin", "Java", "PHP", "JavaScript")
+var arrayClase: Array<Class> = Array()
 
 // No negativos
 var noNegNumero: UByte = 5U
